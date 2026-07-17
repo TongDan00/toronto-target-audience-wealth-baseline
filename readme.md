@@ -1,6 +1,6 @@
 # Navigating the 2028 Mortgage Renewal Challenge: Toronto Household Debt & Liquidity Analysis
 
-[![Dashboard Preview](images/macro_overview.png)]([https://public.tableau.com/shared/ZRHSCQX7D?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/ZRHSCQX7D?:display_count=n&:origin=viz_share_link))
+[![Dashboard Preview](images/macro_overview.png)](https://public.tableau.com/app/profile/yutong.lin7507/viz/toronto-target-audience-wealth-baseline/MacroOverview)
 
 Hi, I'm Yu-Tong Lin. With a background in Industrial Engineering and Business Management, combined with experience in operational planning and data analytics, I approach data through both a technical and operational lens. I focus not only on identifying trends but also on uncovering operational bottlenecks, business risks, and opportunities for data-driven decision-making.
 
@@ -25,7 +25,7 @@ Based on the macroeconomic analysis and household debt trends, financial institu
 
 ## 📊 Dashboard Highlights
 The Tableau dashboard identifies two demographic segments with distinct financial characteristics.
-[![Dashboard Preview](images/macro_overview.png)]([https://public.tableau.com/shared/ZRHSCQX7D?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/ZRHSCQX7D?:display_count=n&:origin=viz_share_link))
+[![Dashboard Preview](images/toronto_deep_dive.png)](https://public.tableau.com/app/profile/yutong.lin7507/viz/toronto-target-audience-wealth-baseline/MacroOverview)
 
 ### Cash Flow Pressure Segment (Ages 35–44)
 *   **Visual Cue:** Highlighted by the steep decline in the projected wealth trajectory.
