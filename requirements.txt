@@ -1,0 +1,10 @@
+## Data Manipulation & ETL
+
+* pandas >= 2.0.0
+> **Note:** The `sqlite3` and `os` modules are included in Python's Standard Library and do not need to be installed separately using `pip`.
+
+### Install Dependencies
+
+```bash
+pip install pandas>=2.0.0
+```
