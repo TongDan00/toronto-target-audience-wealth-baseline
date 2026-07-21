@@ -8,7 +8,7 @@ def process_credit_liabilities():
 
     os.makedirs(output_dir, exist_ok=True)
 
-    print(f"⏳ Reading monthly time-series file: {input_file}...")
+    print(f"Reading monthly time-series file: {input_file}...")
     
     if not os.path.exists(input_file):
         print(f"Error: File not found. Please ensure the file is saved with the exact name:{input_file}")

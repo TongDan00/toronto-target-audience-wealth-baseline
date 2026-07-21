@@ -41,7 +41,7 @@ def process_interest_rates():
     category_col = next((col for col in df.columns if col not in standard_cols), None)
     
     if not category_col:
-       # Fallback to 'Rates' if automatic detection fails
+       # Fallback to "Rates" if automatic detection fails
         category_col = 'Rates' if 'Rates' in df.columns else None
 
     if not category_col:
